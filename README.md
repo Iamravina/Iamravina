@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Iamravina
 - 👀 I’m interested in Code 
 - 🌱 I’m currently learning HTML and CSS
-  📫 How to reach me via email-ravinakvb@gmail.com
+- 📫 you can reach me via email-ravinakvb@gmail.com
 
 <!---
 Iamravina/Iamravina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
